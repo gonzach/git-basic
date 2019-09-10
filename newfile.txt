@@ -1,3 +1,13 @@
 #This is my 2nd commit file"
 #Hello again, thank you for reading. 
 #Change from the website
+
+
+2. Your answer for What is the difference between add, commit, and push?（just write down your answer in any text file or the newfile.txt you created and submit with repo）
+
+ADD
+- modified file in the GIT directory that stores information about what will go into the next commit.
+COMMIT
+- modified file is safely stored in the local database. 
+PUSH
+- update the remote repository with the local database. 
